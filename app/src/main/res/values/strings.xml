@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ShareCareApp</string>
+    <string name="switch_view">switch</string>
+    <string name="user_pic">user_pic</string>
+    <string name="label_email">Email:</string>
+    <string name="label_location">Location:</string>
+    <string name="label_blog">Blog:</string>
+    <string name="label_twt_username">twitter:</string>
+    <string name="label_company">Company:</string>
+    <string name="label_followers">Followers:</string>
+    <string name="label_following">Following:</string>
+
+</resources>
